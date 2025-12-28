@@ -87,7 +87,3 @@ python inference.py user_1 --gems
 * **Automatic Reporting:** Results are saved to `recommendations/{user_id}/{user_id}_{epoch}_{mode}.csv`.
 
 ---
-
----
-
-**Would you like me to generate a `requirements.txt` file based on this setup so you can easily install the dependencies on another machine?**
