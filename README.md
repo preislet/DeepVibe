@@ -37,7 +37,7 @@ DeepVibe/
 │   └── training_detailed.log    # Detailed training events
 ├── recommendations/             # Generated discovery reports (Auto-created)
 ├── train.py                     # Main training script
-└── discovery_final.py           # Discovery search & DNA generation script
+└── inference.py           # Discovery search & DNA generation script
 
 ```
 
